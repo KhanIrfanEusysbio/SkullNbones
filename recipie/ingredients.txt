@@ -1,8 +1,6 @@
 * 2 avocados
 * 1 lime
 * 2 tsp salt
-<<<<<<< HEAD
 * 1/2 onions
 * 1 tsp of salt
-=======
->>>>>>> parent of 54b45a8... add onions
+* 2 tsp cilantro
